@@ -86,7 +86,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "core-js": "3",
+    "core-js": "^2.6.9",
     "country-code-to-flag-emoji": "^1.0.0",
     "get-user-locale": "^1.2.0",
     "lodash.once": "^4.1.1",
